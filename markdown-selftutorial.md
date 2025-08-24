@@ -1,5 +1,4 @@
 <!--
-
 Eine selbstreferentielle Anleitung zum Schreiben von Markdown-Texten im GitHub-Flavor
 
 (C) 2018 - 2025 Karsten Reincke, Hohenahr, Germany
@@ -20,7 +19,7 @@ Release 2.2
 brauchst_  
 **Lizenz**: [CC0-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Die Idee ist, diese Datei `markdown-selftutorial` in einen Editor (z.B. `VSCODE`) zu laden, im Code nachzusehen, wie man etwas *markdownisch* schreibt und im View-Modus (bzw. mittels eines PDF-Konverters) nachzusehen, wie es interpretiert aussehen soll.
+Die Idee ist, diese Datei `markdown-selftutorial.md` (`README.md`) in einen Editor (z.B. `VSCODE`) zu laden, im Code nachzusehen, wie man etwas *markdownisch* schreibt und im View-Modus (bzw. mittels eines PDF-Konverters) zu betrachten, wie es interpretiert aussehen soll.
 
 ## 0.) Inhalt
 <!-- no toc --> 
